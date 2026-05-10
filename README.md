@@ -39,6 +39,6 @@ I wanted to build a project that felt close to a real business scenario rather t
 4. Refresh the dataset if needed
 5. Explore the interactive dashboard
 
-## 🎞️ Preview
+## 📷 Preview
 
-(Add your dashboard screenshots here)
+<img width="840" height="479" alt="image" src="https://github.com/user-attachments/assets/8180dc48-8110-4ed0-8f6b-4626f49f826e" />
