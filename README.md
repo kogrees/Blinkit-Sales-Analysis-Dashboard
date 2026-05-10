@@ -16,7 +16,7 @@ An interactive business intelligence dashboard built using Power BI and SQL. The
 * Revenue, profit, and order trend analysis
 * Product and category performance insights
 * Customer purchasing behavior analysis
-* KPI cards for quick business overview
+* KPI cards for a quick business overview
 * Data cleaning and transformation using Power Query
 
 ## 📍 The Process
@@ -34,9 +34,10 @@ I wanted to build a project that felt close to a real business scenario rather t
 ## 🚦 Running the Project
 
 1. Download the Power BI (.pbix) file
-2. Open it in Power BI Desktop
-3. Refresh the dataset if needed
-4. Explore the interactive dashboard
+2. Download the Dataset (.xlsx) file
+3. Open it in Power BI Desktop
+4. Refresh the dataset if needed
+5. Explore the interactive dashboard
 
 ## 🎞️ Preview
 
