@@ -4,11 +4,11 @@ An interactive business intelligence dashboard built using Power BI and SQL. The
 
 ## ✨ Technologies
 
-* Power BI
-* SQL
-* Excel / CSV Dataset
-* Data Visualization
-* DAX
+`* Power BI`
+`* SQL`
+`* Excel / CSV Dataset`
+`* Data Visualization`
+`* DAX`
 
 ## 🚀 Features
 
@@ -33,9 +33,9 @@ I wanted to build a project that felt close to a real business scenario rather t
 
 ## 🚦 Running the Project
 
-1. Download the Power BI (.pbix) file
+1. Download the `Power BI` (.pbix) file
 2. Download the Dataset (.xlsx) file
-3. Open it in Power BI Desktop
+3. Open it in `Power BI Desktop`
 4. Refresh the dataset if needed
 5. Explore the interactive dashboard
 
